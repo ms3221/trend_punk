@@ -41,7 +41,7 @@ export function Header() {
             className="font-display text-2xl tracking-wider text-accent-500"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            TREND PUNK
+            TREND LINK
           </span>
         </a>
 

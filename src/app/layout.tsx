@@ -5,12 +5,12 @@ import { Footer } from "@/components/layout/Footer";
 import { BackToTop } from "@/components/ui/BackToTop";
 
 export const metadata: Metadata = {
-  title: "트렌드 펑크 Trend Punk | 골목상권에 트렌드를 연결합니다",
+  title: "트렌드 링크 Trend Link | 골목상권에 트렌드를 연결합니다",
   description:
     "전문 셰프의 검증된 레시피를 소상공인에게 연결하는 AI 기반 외식 콘텐츠 플랫폼. 골목상권의 메뉴 경쟁력을 높이고, 트렌드 소비자와 동네 맛집을 잇습니다.",
   keywords: [
-    "트렌드 펑크",
-    "Trend Punk",
+    "트렌드 링크",
+    "Trend Link",
     "소상공인",
     "골목상권",
     "외식업",
@@ -21,12 +21,12 @@ export const metadata: Metadata = {
     "재도전성공패키지",
   ],
   openGraph: {
-    title: "트렌드 펑크 Trend Punk | 골목상권에 트렌드를 연결합니다",
+    title: "트렌드 링크 Trend Link | 골목상권에 트렌드를 연결합니다",
     description:
       "전문 셰프의 검증된 레시피와 AI 트렌드 분석으로 소상공인의 메뉴 경쟁력을 높이는 플랫폼",
     type: "website",
     locale: "ko_KR",
-    siteName: "트렌드 펑크",
+    siteName: "트렌드 링크",
   },
   robots: {
     index: true,

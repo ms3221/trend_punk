@@ -73,7 +73,7 @@ export function Hero() {
             className="block text-6xl md:text-8xl lg:text-9xl text-white leading-none tracking-wide"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            TREND PUNK
+            TREND LINK
           </span>
         </motion.h1>
 

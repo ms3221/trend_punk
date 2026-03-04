@@ -39,7 +39,7 @@ const features = [
 
 const flowSteps = [
   { label: "전문 셰프", sub: "레시피 개발·검증", emoji: "👨‍🍳" },
-  { label: "트렌드 펑크", sub: "AI 분석·매칭·공급", emoji: "🚀" },
+  { label: "트렌드 링크", sub: "AI 분석·매칭·공급", emoji: "🚀" },
   { label: "골목 점주", sub: "메뉴 도입·판매", emoji: "🏪" },
   { label: "소비자", sub: "동네에서 트렌드 경험", emoji: "😋" },
 ];
@@ -57,7 +57,7 @@ export function Solution() {
               Solution
             </p>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-navy-900 mb-4">
-              트렌드 펑크가 <span className="text-accent-500">연결</span>합니다
+              트렌드 링크가 <span className="text-accent-500">연결</span>합니다
             </h2>
             <p className="text-warm-500 text-base md:text-lg max-w-2xl mx-auto">
               셰프의 전문성과 AI 기술을 결합하여

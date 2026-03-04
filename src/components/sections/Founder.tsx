@@ -52,7 +52,7 @@ export function Founder() {
                 대표 조재응
               </h3>
               <p className="text-accent-500 font-semibold mb-6">
-                10년차 전문 셰프 · 트렌드 펑크 대표
+                10년차 전문 셰프 · 트렌드 링크 대표
               </p>
 
               {/* Tags */}
@@ -69,9 +69,9 @@ export function Founder() {
 
               <p className="text-warm-600 leading-relaxed mb-8">
                 대기업 외식 브랜드부터 개인 레스토랑까지, 다양한 현장에서 메뉴를
-                개발하고 매장을 운영해 온 경험을 바탕으로 트렌드 펑크를
+                개발하고 매장을 운영해 온 경험을 바탕으로 트렌드 링크를
                 만들었습니다. 소상공인이 프랜차이즈와 대등하게 경쟁할 수 있는
-                환경, 그것이 트렌드 펑크의 목표입니다.
+                환경, 그것이 트렌드 링크의 목표입니다.
               </p>
 
               {/* Quote */}
